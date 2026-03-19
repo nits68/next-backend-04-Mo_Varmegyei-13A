@@ -1,0 +1,36 @@
+generator client {
+  provider      = "prisma-client-js"
+  output        = "../app/prisma/client"
+  binaryTargets = ["native", "rhel-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model City {
+  id         Int    @id @map("_id")
+  area       Float
+  county_id  Int
+  name       String
+  population Int
+
+  county County? @relation(fields: [county_id], references: [id])
+
+  @@map("cities")
+}
+
+model County {
+  id           Int    @id @map("_id")
+  area         Int
+  country_part String
+  name         String
+  population   Int
+  region       String
+  seat_id      Int
+
+  cities City[]
+
+  @@map("counties")
+}

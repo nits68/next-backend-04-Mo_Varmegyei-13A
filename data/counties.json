@@ -1,0 +1,173 @@
+[
+    {
+        "_id": 1,
+        "name": "Bács-Kiskun vármegye",
+        "seat_id": 8,
+        "country_part": "AF",
+        "region": "DA",
+        "population": 503825,
+        "area": 8443
+    },
+    {
+        "_id": 2,
+        "name": "Baranya vármegye",
+        "seat_id": 5,
+        "country_part": "DT",
+        "region": "DD",
+        "population": 360704,
+        "area": 4430
+    },
+    {
+        "_id": 3,
+        "name": "Békés vármegye",
+        "seat_id": 17,
+        "country_part": "AF",
+        "region": "DA",
+        "population": 334264,
+        "area": 5630
+    },
+    {
+        "_id": 4,
+        "name": "Borsod-Abaúj-Zemplén vármegye",
+        "seat_id": 4,
+        "country_part": "AF",
+        "region": "ÉM",
+        "population": 642447,
+        "area": 7247
+    },
+    {
+        "_id": 5,
+        "name": "Csongrád-Csanád vármegye",
+        "seat_id": 3,
+        "country_part": "AF",
+        "region": "DA",
+        "population": 399012,
+        "area": 4262
+    },
+    {
+        "_id": 6,
+        "name": "Fejér vármegye",
+        "seat_id": 9,
+        "country_part": "DT",
+        "region": "KD",
+        "population": 417651,
+        "area": 4358
+    },
+    {
+        "_id": 7,
+        "name": "Győr-Moson-Sopron vármegye",
+        "seat_id": 6,
+        "country_part": "DT",
+        "region": "NyD",
+        "population": 467144,
+        "area": 4208
+    },
+    {
+        "_id": 8,
+        "name": "Hajdú-Bihar vármegye",
+        "seat_id": 2,
+        "country_part": "AF",
+        "region": "ÉA",
+        "population": 527989,
+        "area": 6209
+    },
+    {
+        "_id": 9,
+        "name": "Heves vármegye",
+        "seat_id": 19,
+        "country_part": "AF",
+        "region": "ÉM",
+        "population": 294609,
+        "area": 3637
+    },
+    {
+        "_id": 10,
+        "name": "Jász-Nagykun-Szolnok vármegye",
+        "seat_id": 12,
+        "country_part": "AF",
+        "region": "ÉA",
+        "population": 370007,
+        "area": 5581
+    },
+    {
+        "_id": 11,
+        "name": "Komárom-Esztergom vármegye",
+        "seat_id": 13,
+        "country_part": "DT",
+        "region": "KD",
+        "population": 299207,
+        "area": 2264
+    },
+    {
+        "_id": 12,
+        "name": "Nógrád vármegye",
+        "seat_id": 30,
+        "country_part": "AF",
+        "region": "ÉM",
+        "population": 192573,
+        "area": 2544
+    },
+    {
+        "_id": 13,
+        "name": "Pest vármegye",
+        "seat_id": 1,
+        "country_part": "KM",
+        "region": "PE",
+        "population": 1278874,
+        "area": 6390
+    },
+    {
+        "_id": 14,
+        "name": "Somogy vármegye",
+        "seat_id": 15,
+        "country_part": "DT",
+        "region": "DD",
+        "population": 301429,
+        "area": 6065
+    },
+    {
+        "_id": 15,
+        "name": "Szabolcs-Szatmár-Bereg vármegye",
+        "seat_id": 7,
+        "country_part": "AF",
+        "region": "ÉA",
+        "population": 552964,
+        "area": 5933
+    },
+    {
+        "_id": 16,
+        "name": "Tolna vármegye",
+        "seat_id": 32,
+        "country_part": "DT",
+        "region": "DD",
+        "population": 217463,
+        "area": 3703
+    },
+    {
+        "_id": 17,
+        "name": "Vas vármegye",
+        "seat_id": 10,
+        "country_part": "DT",
+        "region": "NyD",
+        "population": 253551,
+        "area": 3336
+    },
+    {
+        "_id": 18,
+        "name": "Veszprém vármegye",
+        "seat_id": 16,
+        "country_part": "DT",
+        "region": "KD",
+        "population": 341317,
+        "area": 4463
+    },
+    {
+        "_id": 19,
+        "name": "Zala vármegye",
+        "seat_id": 18,
+        "country_part": "DT",
+        "region": "NyD",
+        "population": 268648,
+        "area": 3784
+    }
+]

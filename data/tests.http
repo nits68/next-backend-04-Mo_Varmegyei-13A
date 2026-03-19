@@ -1,0 +1,8 @@
+### 5. feladat: Get all cities with county data and rank, order by population (DESC)
+GET http://localhost:3000/api/get-all-cities
+
+### 6. feladat: Get stat
+GET http://localhost:3000/api/get-stat
+
+### 7. feladat: Delete city by id
+DELETE  http://localhost:3000/api/delete-city/1

@@ -1,0 +1,296 @@
+[
+    {
+        "_id": 1,
+        "name": "Budapest",
+        "population": 1685342,
+        "county_id": 13,
+        "area": 525.6
+    },
+    {
+        "_id": 2,
+        "name": "Debrecen",
+        "population": 199858,
+        "county_id": 8,
+        "area": 461.666
+    },
+    {
+        "_id": 3,
+        "name": "Szeged",
+        "population": 158797,
+        "county_id": 5,
+        "area": 280.8
+    },
+    {
+        "_id": 4,
+        "name": "Miskolc",
+        "population": 147533,
+        "county_id": 4,
+        "area": 236.0
+    },
+    {
+        "_id": 5,
+        "name": "Pécs",
+        "population": 139099,
+        "county_id": 2,
+        "area": 113.3
+    },
+    {
+        "_id": 6,
+        "name": "Győr ",
+        "population": 127599,
+        "county_id": 7,
+        "area": 113.3
+    },
+    {
+        "_id": 7,
+        "name": "Nyíregyháza",
+        "population": 116282,
+        "county_id": 15,
+        "area": 274.0
+    },
+    {
+        "_id": 8,
+        "name": "Kecskemét",
+        "population": 108120,
+        "county_id": 1,
+        "area": 322.0
+    },
+    {
+        "_id": 9,
+        "name": "Székesfehérvár",
+        "population": 95045,
+        "county_id": 6,
+        "area": 170.89
+    },
+    {
+        "_id": 10,
+        "name": "Szombathely",
+        "population": 77757,
+        "county_id": 17,
+        "area": 97.5
+    },
+    {
+        "_id": 11,
+        "name": "Érd ",
+        "population": 71253,
+        "county_id": 13,
+        "area": 63.3
+    },
+    {
+        "_id": 12,
+        "name": "Szolnok",
+        "population": 66061,
+        "county_id": 10,
+        "area": 187.0
+    },
+    {
+        "_id": 13,
+        "name": "Tatabánya",
+        "population": 65830,
+        "county_id": 11,
+        "area": 91.42
+    },
+    {
+        "_id": 14,
+        "name": "Sopron",
+        "population": 60334,
+        "county_id": 7,
+        "area": 168.3
+    },
+    {
+        "_id": 15,
+        "name": "Kaposvár",
+        "population": 59397,
+        "county_id": 14,
+        "area": 113.3
+    },
+    {
+        "_id": 16,
+        "name": "Veszprém",
+        "population": 55910,
+        "county_id": 18,
+        "area": 126.9
+    },
+    {
+        "_id": 17,
+        "name": "Békéscsaba",
+        "population": 54460,
+        "county_id": 3,
+        "area": 193.93
+    },
+    {
+        "_id": 18,
+        "name": "Zalaegerszeg",
+        "population": 54428,
+        "county_id": 19,
+        "area": 99.98
+    },
+    {
+        "_id": 19,
+        "name": "Eger",
+        "population": 49499,
+        "county_id": 9,
+        "area": 92.24
+    },
+    {
+        "_id": 20,
+        "name": "Dunakeszi",
+        "population": 43858,
+        "county_id": 13,
+        "area": 31.1
+    },
+    {
+        "_id": 21,
+        "name": "Nagykanizsa",
+        "population": 43228,
+        "county_id": 19,
+        "area": 148.4
+    },
+    {
+        "_id": 22,
+        "name": "Dunaújváros",
+        "population": 44200,
+        "county_id": 6,
+        "area": 52.67
+    },
+    {
+        "_id": 23,
+        "name": "Hódmezővásárhely",
+        "population": 41634,
+        "county_id": 5,
+        "area": 488.0
+    },
+    {
+        "_id": 24,
+        "name": "Szigetszentmiklós ",
+        "population": 41634,
+        "county_id": 13,
+        "area": 41.634
+    },
+    {
+        "_id": 27,
+        "name": "Mosonmagyaróvár",
+        "population": 33935,
+        "county_id": 7,
+        "area": 74.8
+    },
+    {
+        "_id": 28,
+        "name": "Baja ",
+        "population": 33140,
+        "county_id": 1,
+        "area": 177.9
+    },
+    {
+        "_id": 30,
+        "name": "Salgótarján",
+        "population": 34747,
+        "county_id": 12,
+        "area": 100.84
+    },
+    {
+        "_id": 31,
+        "name": "Ózd",
+        "population": 31022,
+        "county_id": 4,
+        "area": 91.0
+    },
+    {
+        "_id": 32,
+        "name": "Szekszárd",
+        "population": 29889,
+        "county_id": 16,
+        "area": 96.28
+    },
+    {
+        "_id": 33,
+        "name": "Hajdúböszörmény",
+        "population": 29374,
+        "county_id": 8,
+        "area": 290.0
+    },
+    {
+        "_id": 35,
+        "name": "Pápa",
+        "population": 29019,
+        "county_id": 18,
+        "area": 91.62
+    },
+    {
+        "_id": 36,
+        "name": "Kiskunfélegyháza ",
+        "population": 28974,
+        "county_id": 1,
+        "area": 256.3
+    },
+    {
+        "_id": 37,
+        "name": "Esztergom",
+        "population": 28693,
+        "county_id": 11,
+        "area": 100.4
+    },
+    {
+        "_id": 39,
+        "name": "Gyula",
+        "population": 27834,
+        "county_id": 3,
+        "area": 255.8
+    },
+    {
+        "_id": 40,
+        "name": "Gyöngyös",
+        "population": 27645,
+        "county_id": 9,
+        "area": 55.31
+    },
+    {
+        "_id": 41,
+        "name": "Ajka",
+        "population": 26671,
+        "county_id": 18,
+        "area": 95.05
+    },
+    {
+        "_id": 43,
+        "name": "Jászberény",
+        "population": 26118,
+        "county_id": 10,
+        "area": 221.0
+    },
+    {
+        "_id": 44,
+        "name": "Orosháza",
+        "population": 25206,
+        "county_id": 3,
+        "area": 353.2
+    },
+    {
+        "_id": 45,
+        "name": "Szentes",
+        "population": 25162,
+        "county_id": 5,
+        "area": 25.162
+    },
+    {
+        "_id": 46,
+        "name": "Kazincbarcika",
+        "population": 24285,
+        "county_id": 4,
+        "area": 36.0
+    },
+    {
+        "_id": 48,
+        "name": "Siófok",
+        "population": 23601,
+        "county_id": 14,
+        "area": 58.66
+    },
+    {
+        "_id": 50,
+        "name": "Tata",
+        "population": 23456,
+        "county_id": 11,
+        "area": 78.13
+    }
+]
