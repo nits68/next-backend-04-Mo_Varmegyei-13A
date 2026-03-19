@@ -18,6 +18,11 @@ model City {
 
   county County? @relation(fields: [county_id], references: [id])
 
+  // 1:1 kapcsolat a County-vel, ahol a City a County székhelye
+  // A kapcslatnak nevet kell adni, mert van másik kapcsolat is a két modell között
+  // opcionális kapcsolat (?), mert nem minden város székhely
+  seatOf County? @relation("oneToOne")
+
   @@map("cities")
 }
 
@@ -28,9 +33,14 @@ model County {
   name         String
   population   Int
   region       String
-  seat_id      Int
+  seat_id      Int    @unique //1:1 kapcsolatnál az idegen kulcs egyedi kell legyen
 
   cities City[]
+
+  // Az 1:1 kapcsolat definiálása
+  // A kapcslatnak nevet kell adni, mert van másik kapcsolat is a két modell között
+  // onDelete és onUpdate beállítások kellenek a körkörös hivatkozás elkerülése végett
+  seat City @relation("oneToOne", fields: [seat_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
 
   @@map("counties")
 }
